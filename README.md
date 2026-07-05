@@ -10,4 +10,4 @@ Research interests:
 
 GitHub: https://github.com/SherlokSchumann
 <br>
-Enail: adithyav053@gmail.com
+Email: adithyav053@gmail.com
