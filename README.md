@@ -1,6 +1,6 @@
 # Adithya Venkateshwar
 
-Computer Science undergraduate at Sai University.
+Final year Computer Science undergraduate at Sai University.
 
 Research interests:
 - Computer Networks
